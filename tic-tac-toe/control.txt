@@ -1,0 +1,6 @@
+startingweights.txt
+revisedweights.txt
+result.txt
+trace.txt
+2.0
+100000
